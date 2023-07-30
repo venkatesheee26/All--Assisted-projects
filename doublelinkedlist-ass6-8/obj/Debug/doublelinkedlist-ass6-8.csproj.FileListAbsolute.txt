@@ -1,0 +1,8 @@
+D:\Assisted project\ass-section-6(1)\doublelinkedlist-ass6-8\bin\Debug\doublelinkedlist-ass6-8.exe.config
+D:\Assisted project\ass-section-6(1)\doublelinkedlist-ass6-8\bin\Debug\doublelinkedlist-ass6-8.exe
+D:\Assisted project\ass-section-6(1)\doublelinkedlist-ass6-8\bin\Debug\doublelinkedlist-ass6-8.pdb
+D:\Assisted project\ass-section-6(1)\doublelinkedlist-ass6-8\obj\Debug\doublelinkedlist-ass6-8.csproj.AssemblyReference.cache
+D:\Assisted project\ass-section-6(1)\doublelinkedlist-ass6-8\obj\Debug\doublelinkedlist-ass6-8.csproj.SuggestedBindingRedirects.cache
+D:\Assisted project\ass-section-6(1)\doublelinkedlist-ass6-8\obj\Debug\doublelinkedlist-ass6-8.csproj.CoreCompileInputs.cache
+D:\Assisted project\ass-section-6(1)\doublelinkedlist-ass6-8\obj\Debug\doublelinkedlist-ass6-8.exe
+D:\Assisted project\ass-section-6(1)\doublelinkedlist-ass6-8\obj\Debug\doublelinkedlist-ass6-8.pdb

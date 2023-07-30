@@ -1,0 +1,8 @@
+D:\Assisted project\ass-section-6(1)\selectionsort-ass\bin\Debug\selectionsort-ass.exe.config
+D:\Assisted project\ass-section-6(1)\selectionsort-ass\bin\Debug\selectionsort-ass.exe
+D:\Assisted project\ass-section-6(1)\selectionsort-ass\bin\Debug\selectionsort-ass.pdb
+D:\Assisted project\ass-section-6(1)\selectionsort-ass\obj\Debug\selectionsort-ass.csproj.AssemblyReference.cache
+D:\Assisted project\ass-section-6(1)\selectionsort-ass\obj\Debug\selectionsort-ass.csproj.SuggestedBindingRedirects.cache
+D:\Assisted project\ass-section-6(1)\selectionsort-ass\obj\Debug\selectionsort-ass.csproj.CoreCompileInputs.cache
+D:\Assisted project\ass-section-6(1)\selectionsort-ass\obj\Debug\selectionsort-ass.exe
+D:\Assisted project\ass-section-6(1)\selectionsort-ass\obj\Debug\selectionsort-ass.pdb
